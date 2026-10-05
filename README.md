@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm HuJoe, a solo freelance Minecraft Mod / Software Developer! I specialize in recreating popular (or niche) games into Minecraft Java Edition to make brand new experiences. I've also created a handful of games and I'm starting to reach into desktop app development.
+I'm HuJoe, a solo freelance Minecraft Mod / Software Developer! I specialize in recreating popular (or niche) games into Minecraft Java Edition to make brand new experiences. I've also created a handful of Unity games by myself and with teams.
 
 <!--
 ## Notable Projects
