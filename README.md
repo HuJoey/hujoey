@@ -5,14 +5,14 @@ I'm HuJoe, a solo freelance Minecraft Mod / Software Developer! I specialize in 
 ## Notable Projects
 
 ### Magical Soul Cards (Java)
-<img width="5760" height="1080" alt="soulcardbanner" src="assets/soulcardbanner.gif" />
+<img width="5760" height="1080" alt="soulcardbanner" src="soulcardbanner.png" />
 
 I recreated the game **Neon White** in Minecraft 1.21.1. This was a 7-month project which included 6 unique movement cards (which also work as guns), modified physics, a fully custom UI, and a custom level saving and sharing system. It was a study in *3D movement/physics* where I attempted to recreate the bizarrely smooth movement created from many sources, like the movement cards, enemies, parrying, special blocks, etc.
 
 You can find a video showcasing the mod and late development stages here: https://youtu.be/d-SO0VWysgo?si=CPutQDqHYh5sbG-5
 
 ### FlashPoint (GDScript)
-<img width="1280" height="720" alt="flashpoint" src="assets/flashpoint.gif" />
+<img width="512" height="288" alt="flashpoint" src="flashpoint.gif" />
 
 **FlashPoint** is a puzzle platformer game I created in >2 weeks with a team of 5 others for Northeastern University's Game Dev Club 2026 *Jam-O-Lantern* game jam. In it, you have to traverse pitch black levels using your trusty flashlight. However, when you look away, things change in the darkness. Things can move, disappear, and become collidable/uncollidable. There's also many puzzle objects including overhead lights, doors, pushable boxes, and pressure plates.
 
